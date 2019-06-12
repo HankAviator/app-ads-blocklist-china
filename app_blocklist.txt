@@ -1,0 +1,31 @@
+! Title: App promotion overlay blocklist China
+! Expires: 7 days
+! Description: A blocklist for app promotion on Chinese websites
+! Homepage: https://github.com/HankAviator/app-promo-overlay-blocklist-china
+! Licence: https://github.com/HankAviator/app-promo-overlay-blocklist-china/blob/master/LICENSE
+! 
+! GitHub issues: https://github.com/HankAviator/app-promo-overlay-blocklist-china/issues
+! GitHub pull requests: https://github.com/HankAviator/app-promo-overlay-blocklist-china/pulls
+
+! Last updated: 2019-06-12
+
+! booking.com
+secure.booking.com##.gta-lightbox-wrapper.modal-wrapper
+secure.booking.com##.modal-mask
+secure.booking.com##.myres-gtw-open
+secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
+
+! www.tianxun.com
+www.tianxun.com##.col_app
+www.tianxun.com##.pop_app
+www.tianxun.com##.pt10.side_box.ac
+
+! www.qyer.com
+www.qyer.com##div.section-gray.section:nth-of-type(3)
+
+! www.qunar.com
+www.qunar.com##.q_header_app_logo
+www.qunar.com##.mod-home-appfoot
+
+
+
