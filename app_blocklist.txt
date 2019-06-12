@@ -1,4 +1,4 @@
-! Title: App promotion overlay blocklist China
+! Title: App ads blocklist China
 ! Expires: 7 days
 ! Description: A blocklist for app promotion on Chinese websites
 ! Homepage: https://github.com/HankAviator/app-promo-overlay-blocklist-china
