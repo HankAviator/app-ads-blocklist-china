@@ -7,13 +7,25 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2019-06-12
+! Last updated: 2019-06-13
+
+! creditcard.ecitic.com
+creditcard.ecitic.com##.setting-adv
+
+! buy.tmall.com
+buy.tmall.com###J_Qrcode
+
+! item.taobao.com
+item.taobao.com##.tb-qrcode-tool
 
 ! booking.com
 secure.booking.com##.gta-lightbox-wrapper.modal-wrapper
 secure.booking.com##.modal-mask
 secure.booking.com##.myres-gtw-open
 secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
+
+! flights.ch.com
+flights.ch.com##.m-side
 
 ! www.tianxun.com
 www.tianxun.com##.col_app
@@ -26,6 +38,8 @@ www.qyer.com##div.section-gray.section:nth-of-type(3)
 ! www.qunar.com
 www.qunar.com##.q_header_app_logo
 www.qunar.com##.mod-home-appfoot
+
+
 
 
 
