@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2019-06-13
+! Last updated: 2019-06-28
 
 ! creditcard.ecitic.com
 creditcard.ecitic.com##.setting-adv
@@ -21,6 +21,7 @@ item.taobao.com##.tb-qrcode-tool
 ! booking.com
 secure.booking.com##.gta-lightbox-wrapper.modal-wrapper
 secure.booking.com##.modal-mask
+secure.booking.com##.modal-wrapper
 secure.booking.com##.myres-gtw-open
 secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
 
