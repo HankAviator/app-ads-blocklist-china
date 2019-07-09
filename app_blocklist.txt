@@ -30,6 +30,9 @@ secure.booking.com##.china-loyalty-dp-app-download-banner
 ! flights.ch.com
 flights.ch.com##.m-side
 
+! wq.jd.com
+wq.jd.com###id-pcprompt-mask
+
 ! www.tianxun.com
 www.tianxun.com##.col_app
 www.tianxun.com##.pop_app
