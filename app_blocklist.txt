@@ -26,6 +26,9 @@ secure.booking.com##.myres-gtw-open
 secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
 secure.booking.com##.china-loyalty-dp-app-download-banner
 
+! ctrip.com
+my.ctrip.com###bottomBanner
+hotels.ctrip.com###J_qrcodes
 
 ! flights.ch.com
 flights.ch.com##.m-side
