@@ -7,7 +7,10 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2019-06-28
+! Last updated: 2019-08-31
+
+! www.amap.com
+www.amap.com##.dir_qr
 
 ! creditcard.ecitic.com
 creditcard.ecitic.com##.setting-adv
