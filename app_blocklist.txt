@@ -52,3 +52,5 @@ www.qunar.com##.q_header_app_logo
 www.qunar.com##.mod-home-appfoot
 train.qunar.com##.qn-banner
 
+! lianjia.com
+lianjia.com##.fix-bottom-wrap
