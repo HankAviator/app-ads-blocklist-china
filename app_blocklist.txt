@@ -11,6 +11,8 @@
 
 ! www.amap.com
 www.amap.com##.dir_qr
+www.amap.com###to_lushu
+
 
 ! creditcard.ecitic.com
 creditcard.ecitic.com##.setting-adv
