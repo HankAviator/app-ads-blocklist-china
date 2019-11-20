@@ -39,6 +39,10 @@ bus.ctrip.com##.side_img
 ! flights.ch.com
 flights.ch.com##.m-side
 
+! liepin.cn
+www.liepin.cn###nodetpl_g_01116675356561061
+
+
 ! wq.jd.com
 wq.jd.com###id-pcprompt-mask
 
