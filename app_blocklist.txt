@@ -13,8 +13,8 @@
 www.amap.com##.dir_qr
 www.amap.com###to_lushu
 
-! www.huazhu.com
-www.huazhu.com##.Ltac.download-app-open
+! huazhu.com
+huazhu.com##.Ltac.download-app-open
 
 ! creditcard.ecitic.com
 creditcard.ecitic.com##.setting-adv
