@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2019-12-10
+! Last updated: 2019-12-11
 
 ! www.amap.com
 www.amap.com##.dir_qr
@@ -37,6 +37,7 @@ secure.booking.com##.china-loyalty-dp-app-download-banner
 ! ctrip.com
 my.ctrip.com###bottomBanner
 hotels.ctrip.com###J_qrcodes
+hotels.ctrip.com###J_MiniProgram
 bus.ctrip.com##.side_img
 
 ! flights.ch.com
