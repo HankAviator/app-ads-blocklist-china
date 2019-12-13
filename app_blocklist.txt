@@ -69,3 +69,6 @@ lianjia.com##.fix-bottom-wrap
 ! dianping.com
 www.dianping.com##.big-pop
 
+! www.bababus.com
+www.bababus.com###suspend
+
