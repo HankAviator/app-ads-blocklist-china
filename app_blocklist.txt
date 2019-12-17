@@ -1,5 +1,5 @@
 ! Title: App ads blocklist China
-! Expires: 7 days
+! Expires: 3 days
 ! Description: A blocklist for app promotion on Chinese websites
 ! Homepage: https://github.com/HankAviator/app-ads-blocklist-china
 ! Licence: https://github.com/HankAviator/app-ads-blocklist-china/blob/master/LICENSE
@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2019-12-11
+! Last updated: 2019-12-17
 
 ! www.amap.com
 www.amap.com##.dir_qr
@@ -37,7 +37,8 @@ secure.booking.com##.china-loyalty-dp-app-download-banner
 ! ctrip.com
 my.ctrip.com###bottomBanner
 hotels.ctrip.com###J_qrcodes
-hotels.ctrip.com###J_MiniProgram
+hotels.ctrip.com###J_MiniProogram
+hotels.ctrip.com##.download-app
 bus.ctrip.com##.side_img
 
 ! flights.ch.com
