@@ -39,6 +39,7 @@ my.ctrip.com###bottomBanner
 hotels.ctrip.com###J_qrcodes
 hotels.ctrip.com###J_MiniProogram
 hotels.ctrip.com##.download-app
+hotels.ctrip.com###J_MiniProgram
 bus.ctrip.com##.side_img
 
 ! flights.ch.com
