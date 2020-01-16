@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2020-1-14
+! Last updated: 2020-1-16
 
 ! www.amap.com
 www.amap.com##.dir_qr
@@ -74,3 +74,5 @@ www.dianping.com##.big-pop
 ! www.bababus.com
 www.bababus.com###suspend
 
+! http://www.mafengwo.cn
+www.mafengwo.cn###banner-con-gloable
