@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2020-1-16
+! Last updated: 2020-3-5
 
 ! www.amap.com
 www.amap.com##.dir_qr
@@ -25,6 +25,10 @@ buy.tmall.com###J_Qrcode
 
 ! item.taobao.com
 item.taobao.com##.tb-qrcode-tool
+
+! auth.alipay.com
+auth.alipay.com###onlineService
+
 
 ! booking.com
 secure.booking.com##.gta-lightbox-wrapper.modal-wrapper
