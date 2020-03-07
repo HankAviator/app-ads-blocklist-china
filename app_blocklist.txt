@@ -7,11 +7,12 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2020-3-5
+! Last updated: 2020-3-7
 
 ! www.amap.com
 www.amap.com##.dir_qr
 www.amap.com###to_lushu
+ditu.amap.com###mobileenterance_no_bg
 
 ! huazhu.com
 huazhu.com##.Ltac.download-app-open
