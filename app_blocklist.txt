@@ -41,6 +41,8 @@ secure.booking.com##.modal-wrapper
 secure.booking.com##.myres-gtw-open
 secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
 secure.booking.com##.china-loyalty-dp-app-download-banner
+www.booking.com##.header_wechat_qrcode.popover-trigger.jq_tooltip
+
 
 ! ctrip.com
 my.ctrip.com###bottomBanner
