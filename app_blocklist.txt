@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2020-4-23
+! Last updated: 2020-4-25
 
 ! www.amap.com
 www.amap.com##.dir_qr
@@ -53,6 +53,8 @@ hotels.ctrip.com###J_MiniProgram
 bus.ctrip.com##.side_img
 bus.ctrip.com##.main_img
 trains.ctrip.com##.gzh-box
+flights.ctrip.com##.fVfIeY.guaranteeStyle__GuaranteeQR-ihMQSD
+
 
 ! flights.ch.com
 flights.ch.com##.m-side
