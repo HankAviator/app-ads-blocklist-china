@@ -11,6 +11,7 @@
 
 ! www.amap.com
 www.amap.com##.dir_qr
+www.amap.com###amapAppDownload
 www.amap.com###to_lushu
 ditu.amap.com###mobileenterance_no_bg
 
