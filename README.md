@@ -1,5 +1,5 @@
 # App ads blocklist China
-This is a blocklist for app, Wechat mini program, Alipay mini program etc. promotion, advertisement and QR code overlays, banners and other obstructive elements on Chinese websites.
+This is a blocklist for app, Wechat mini program, Alipay mini program etc. promotion, advertisement and QR code overlays, banners and other obtrusive elements on Chinese websites.
 
 ## Overview
 This blocklist blocks all elements that encourage or coerce visitor to download their apps when not needed.
