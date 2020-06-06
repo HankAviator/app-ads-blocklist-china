@@ -9,94 +9,52 @@
 
 ! Last updated: 2020-6-6
 
-! www.amap.com
-www.amap.com##.dir_qr
-www.amap.com###amapAppDownload
-www.amap.com###to_lushu
-ditu.amap.com###mobileenterance_no_bg
-
-! huazhu.com
-huazhu.com##.Ltac.download-app-open
-
-! creditcard.ecitic.com
-creditcard.ecitic.com##.setting-adv
-creditcard.ecitic.com##.dkkj_app
-
-! tmall.com
-buy.tmall.com###J_Qrcode
-detail.tmall.com##.tm-qrcode-icon
-
-! item.taobao.com
-item.taobao.com##.tb-qrcode-tool
-www.taobao.com##.tbh-qr-wrapper
-
-
-! auth.alipay.com
+58.com##.app.rightbtn
+58.com##.wx-xcx-qrcode
+amap.com###amapAppDownload
+amap.com###to_lushu
+amap.com##.dir_qr
 auth.alipay.com###onlineService
-
-
-! booking.com
+bababus.com###suspend
+booking.com##.header_wechat_qrcode.popover-trigger.jq_tooltip
+bus.ctrip.com##.main_img
+bus.ctrip.com##.side_img
+buy.tmall.com###J_Qrcode
+creditcard.ecitic.com##.dkkj_app
+creditcard.ecitic.com##.setting-adv
+detail.tmall.com##.tm-qrcode-icon
+dianping.com##.J-bonus
+dianping.com##.big-pop
+dianping.com##.bottomLayer
+dianping.com##.fullScreenFlash
+ditu.amap.com###mobileenterance_no_bg
+flights.ch.com##.m-side
+flights.ctrip.com##.fVfIeY.guaranteeStyle__GuaranteeQR-ihMQSD
+hotels.ctrip.com###J_MiniProgram
+hotels.ctrip.com###J_MiniProogram
+hotels.ctrip.com###J_qrcodes
+hotels.ctrip.com##.download-app
+huazhu.com##.Ltac.download-app-open
+item.taobao.com##.tb-qrcode-tool
+lianjia.com##.fix-bottom-wrap
+liepin.cn##.guider
+mafengwo.cn###banner-con-gloable
+my.ctrip.com###bottomBanner
+qunar.com##.mod-home-appfoot
+qunar.com##.q_header_app_logo
+qyer.com##div.section-gray.section:nth-of-type(3)
+secure.booking.com##.china-loyalty-dp-app-download-banner
+secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
 secure.booking.com##.gta-lightbox-wrapper.modal-wrapper
 secure.booking.com##.modal-mask
 secure.booking.com##.modal-wrapper
 secure.booking.com##.myres-gtw-open
-secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
-secure.booking.com##.china-loyalty-dp-app-download-banner
-www.booking.com##.header_wechat_qrcode.popover-trigger.jq_tooltip
-
-
-! ctrip.com
-my.ctrip.com###bottomBanner
-hotels.ctrip.com###J_qrcodes
-hotels.ctrip.com###J_MiniProogram
-hotels.ctrip.com##.download-app
-hotels.ctrip.com###J_MiniProgram
-bus.ctrip.com##.side_img
-bus.ctrip.com##.main_img
-trains.ctrip.com##.gzh-box
-flights.ctrip.com##.fVfIeY.guaranteeStyle__GuaranteeQR-ihMQSD
-
-
-! flights.ch.com
-flights.ch.com##.m-side
-
-! liepin.cn
-liepin.cn##.guider
-
-
-! wq.jd.com
-wq.jd.com###id-pcprompt-mask
-
-! www.tianxun.com
-www.tianxun.com##.col_app
-www.tianxun.com##.pop_app
-www.tianxun.com##.pt10.side_box.ac
-
-! www.qyer.com
-www.qyer.com##div.section-gray.section:nth-of-type(3)
-
-! www.qunar.com
-www.qunar.com##.q_header_app_logo
-www.qunar.com##.mod-home-appfoot
+taobao.com##.tbh-qr-wrapper
+tianxun.com##.col_app
+tianxun.com##.pop_app
+tianxun.com##.pt10.side_box.ac
 train.qunar.com##.qn-banner
-
-! lianjia.com
-lianjia.com##.fix-bottom-wrap
-
-! dianping.com
-www.dianping.com##.big-pop
-www.dianping.com##.bottomLayer
-www.dianping.com##.J-bonus
-www.dianping.com##.fullScreenFlash
-
-
-! www.bababus.com
-www.bababus.com###suspend
-
-! http://www.mafengwo.cn
-www.mafengwo.cn###banner-con-gloable
-
+trains.ctrip.com##.gzh-box
+wq.jd.com###id-pcprompt-mask
 zu.ke.com##.fix-bottom-wrap
 zu.ke.com,lianjia.com##.qr-code
-58.com##.wx-xcx-qrcode
-58.com##.app.rightbtn
