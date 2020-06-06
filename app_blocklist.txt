@@ -29,7 +29,8 @@ dianping.com##.bottomLayer
 dianping.com##.fullScreenFlash
 ditu.amap.com###mobileenterance_no_bg
 flights.ch.com##.m-side
-flights.ctrip.com##.fVfIeY.guaranteeStyle__GuaranteeQR-ihMQSD
+flights.ctrip.com###fl_open_wrap
+flights.ctrip.com###appd_wrap_default
 hotels.ctrip.com###J_MiniProgram
 hotels.ctrip.com###J_MiniProogram
 hotels.ctrip.com###J_qrcodes
