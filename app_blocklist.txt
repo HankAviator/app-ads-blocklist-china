@@ -45,7 +45,6 @@ qunar.com##.q_header_app_logo
 qyer.com##div.section-gray.section:nth-of-type(3)
 secure.booking.com##.china-loyalty-dp-app-download-banner
 secure.booking.com##.gta-lightbox-trigger.gta-mb-multiple
-secure.booking.com##.gta-lightbox-wrapper.modal-wrapper
 secure.booking.com##.modal-mask
 secure.booking.com##.modal-wrapper
 secure.booking.com##.myres-gtw-open
