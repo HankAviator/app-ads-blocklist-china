@@ -21,8 +21,11 @@ booking.com##.header_wechat_qrcode.popover-trigger.jq_tooltip
 bus.ctrip.com##.main_img
 bus.ctrip.com##.side_img
 buy.tmall.com###J_Qrcode
+coolapk.com##.apk_right_two
+coolapk.com##.apk_topba_code
 creditcard.ecitic.com##.dkkj_app
 creditcard.ecitic.com##.setting-adv
+csair.com##.qrcode
 ctrip.com##.pop_smallp
 detail.tmall.com##.tm-qrcode-icon
 dianping.com##.J-bonus
@@ -57,6 +60,7 @@ secure.booking.com##.modal-wrapper
 secure.booking.com##.myres-gtw-open
 smzdm.com###index-elevator > li:nth-of-type(2)
 smzdm.com###index-elevator > li:nth-of-type(3)
+taobao.com###J_Col_Main > div:nth-of-type(6)
 taobao.com###J_SiteFooter
 taobao.com##.tbh-qr-wrapper
 tianxun.com##.col_app
