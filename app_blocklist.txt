@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2020-6-
+! Last updated: 2020-6-7
 
 58.com##.app.rightbtn
 58.com##.wx-xcx-qrcode
@@ -67,5 +67,6 @@ tianxun.com##.pt10.side_box.ac
 tmall.com###J_Qrcode
 tmall.com##.tm-qrcode-icon
 train.qunar.com##.qn-banner
+trains.ctrip.com##.erweima
 trains.ctrip.com##.gzh-box
 wq.jd.com###id-pcprompt-mask
