@@ -12,6 +12,7 @@
 58.com##.app.rightbtn
 58.com##.wx-xcx-qrcode
 airchina.com.cn##[href="http://www.airchina.com.cn/cn/client_download.shtml"]
+alipay.com##.container__1JFhD
 amap.com###amapAppDownload
 amap.com###to_lushu
 amap.com##.dir_qr
@@ -76,4 +77,3 @@ trains.ctrip.com##.erweima
 trains.ctrip.com##.gzh-box
 wq.jd.com###id-pcprompt-mask
 xinhuanet.com##.s-ewm
-
