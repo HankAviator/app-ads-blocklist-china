@@ -7,7 +7,7 @@
 ! GitHub issues: https://github.com/HankAviator/app-ads-blocklist-china/issues
 ! GitHub pull requests: https://github.com/HankAviator/app-ads-blocklist-china/pulls
 
-! Last updated: 2020-6-7
+! Last updated: 2020-6-9
 
 58.com##.app.rightbtn
 58.com##.wx-xcx-qrcode
@@ -30,6 +30,9 @@ dianping.com##.J-bonus
 dianping.com##.big-pop
 dianping.com##.bottomLayer
 dianping.com##.fullScreenFlash
+dianping.com##.qrcode-aside
+dianping.com##.shop-owner.mod
+dianping.com##.show.qrcode-fixed
 ditu.amap.com###mobileenterance_no_bg
 flights.ch.com##.m-side
 flights.ctrip.com###appd_wrap_default
@@ -59,6 +62,7 @@ secure.booking.com##.myres-gtw-open
 smzdm.com###index-elevator > li:nth-of-type(2)
 smzdm.com###index-elevator > li:nth-of-type(3)
 smzdm.com##.qrcode
+smzdm.com##.qrcode
 taobao.com###J_Col_Main > div:nth-of-type(6)
 taobao.com###J_SiteFooter
 taobao.com##.tbh-qr-wrapper
@@ -71,3 +75,5 @@ train.qunar.com##.qn-banner
 trains.ctrip.com##.erweima
 trains.ctrip.com##.gzh-box
 wq.jd.com###id-pcprompt-mask
+xinhuanet.com##.s-ewm
+
