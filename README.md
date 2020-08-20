@@ -1,6 +1,6 @@
 # [Deprecated!]
 This list has been merged to [DandelionSprout's](https://github.com/DandelionSprout) [Staying On The Phone Browser](https://github.com/DandelionSprout/adfilt/raw/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser).
-
+See also [DandelionSprout's](https://github.com/DandelionSprout) [AdRemovalListForUnusualAds](https://raw.githubusercontent.com/HankAviator/adfilt/b392a6fc2284f1b4e6dbd90dad4ba973cc3594c6/AdRemovalListForUnusualAds.txt), into which merged a blocklist for WeChat channel subscription.
 # App ads blocklist China
 This is a blocklist for app, Wechat mini program, Alipay mini program, etc., promotion, advertisement and QR code overlays, banners and other obtrusive elements on Chinese websites. 
 
